@@ -41,7 +41,8 @@ button {
     width:120px;
     border-radius: 5%;
     margin:auto;
-    background-color: #1f2a30;    
+    background-color: #1f2a30;
+    color:white;    
 }
 
 #curva{
