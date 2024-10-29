@@ -43,9 +43,4 @@ button {
     margin:auto;
     background-color: #1f2a30;    
 }
-.stilo {
-    position:relative;
-    height:auto;
-    background-image: url('../media/backgroundImage.jpg');
-    top:100%;
-}
+
