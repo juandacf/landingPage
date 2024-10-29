@@ -11,7 +11,7 @@ html {
     color:white;
 }
 .container {
-    height:52vh;
+    height:80vh;
     width: 100vw;
     position:absolute;
     background-image: url('../media/backgroundImage.jpg');
@@ -44,6 +44,8 @@ button {
     background-color: #1f2a30;    
 }
 .stilo {
+    position:relative;
     height:auto;
-    background-image: url('../media/backgroundImage.jpg')
+    background-image: url('../media/backgroundImage.jpg');
+    top:100%;
 }
