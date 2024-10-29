@@ -11,7 +11,7 @@ html {
     color:white;
 }
 .container {
-    height:80vh;
+    height:100vh;
     width: 100vw;
     position:absolute;
     background-image: url('../media/backgroundImage.jpg');
@@ -44,3 +44,8 @@ button {
     background-color: #1f2a30;    
 }
 
+#curva{
+    position:fixed;
+    bottom:0;
+    width:100vw;
+}
